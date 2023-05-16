@@ -1,3 +1,9 @@
+---
+title: PAGE TITLE HERE
+layout: template
+filename: index.md
+--- 
+
 # An evidence-based guide for ecoacoustics deployment
 The programming and deployment of automated acoustic recorders can be confusing to new practitioners, with a bewildering array of decisions to make on machine settings and fieldwork approaches. Research studies have used a wide variety of methods, with little coordination or development of good-practice - the limited guidelines previously available have been scattered throughout the literature.
 
