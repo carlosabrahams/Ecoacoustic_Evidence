@@ -5,6 +5,7 @@ Below, we set out some recommendations for implementing an ecoacoustics study fo
 
 As part of the evidence gathered for these recommendations, a questionnaire was circulated to attendees at the UK Acoustics Network (UKAN+) ecoacoustics symposium held at Manchester Metropolitan University on 15-16th June 2022. This asked a series of questions related to the parameters of a recommended survey protocol for an ecoacoustics study, focussed on developing audio data for analysis with acoustic indices. The favoured choices of the 84 respondents to the survey are included below (referred to as ‘UKAN questionnaire’).
 
+
 ## Sample Rate
 Sample rate is the number of sound samples recorded per second. It affects the temporal resolution of acoustic data, and sets the highest frequency of the sound that will be recorded. The sample rate is programmed within the recording device settings.
 
@@ -43,6 +44,7 @@ Sample rate determines the size of audio files, with high sample rates having a 
 
 High sample rates can be ‘downsampled’ to reduce file size if necessary - the opposite is not possible.
 
+
 ## Bit depth
 The bit depth of an audio file refers to the number of bits used to represent each sample of the audio signal. A higher bit depth allows for a greater dynamic range, which means that the audio file can capture a wider range of amplitude levels. However, higher bit depths also result in larger file sizes.
 
@@ -55,6 +57,7 @@ There has been little study of the effects of bit depth on ecoacoustic studies.
 In ecoacoustic studies, it is common to use bit depths of 16 bits or 24 bits. These bit depths are sufficient for capturing a wide range of sound volumes. Higher bit depths, especially 32 bit recordings, reduce the potential for ‘clipping’ with loud sounds.
 
 For the majority of automated acoustic recorders, the bit depth is set by the unit’s firmware and can not be changed. Hence, no decision on this parameter is normally necessary by the user. The majority of automated units, e.g. Wildlife Acoustics, Audiomoth, Frontier Labs and Swift all record 16 bit files. Handheld recorders from manufacturers such as Tascam and Zoom can also record at 24 or 32 bit depth, which provide a wider amplitude scale.
+
 
 ## File type
 There are a number of different file types that can be used for audio files in ecoacoustic studies. Some common file types include WAV, AIFF, FLAC, and MP3.
@@ -81,6 +84,7 @@ MP3 (MPEG Audio Layer 3) is a compressed file format that is widely used for sto
 Zero-crossing audio files are simple representations of when the recorded audio signal crosses the zero line. They can be used to reconstruct a sound wave, and hence provide data on frequency, but not on amplitude. Zero-crossing audio files are typically created by applying a threshold to the original audio signal, such that only those samples that exceed the threshold are retained. The file sizes are very small compared to other types.
 
 The choice of file type depends partly on the recorder used. For example, Audiomoths record only in WAV format, while Wildlife Acoustics can save files as WAV, a proprietary W4V compressed format, and as ZC zero-crossing files. The Frontier Lab’s BAR-LT supports WAV and FLAC files.
+
 
 ## File length
 Acoustic recorders can be programmed to record file lengths ranging from seconds to hours. The choice of recording length normally depends on issues around practical file management and how the recorded data will be processed.
@@ -115,6 +119,7 @@ The review by Sugai (2019) found that for studies with 24 h diel recordings, the
 Analysis of data for ecoacoustic studies has commonly been undertaken using 1 min length files, such that this has become a de facto standard: https://research.ecosounds. org/2019/08/09/analyzing-data-in-one-minute-chunks.html
 This relatively short file length enables a greater range of time periods to be covered for the same data volume, aids parallel computation with manageable file sizes, retains sufficient detail of vocalisation structures (e.g. birdsong sequences), and can be easily viewed in reasonable temporal detail on a standard computer screen. In addition, when calculating acoustic indices, this file length seems to achieve a compromise between introducing boundary effects from cropping sound sequences into short segments, and over-smoothing temporal variation to gross averages. Finally, one minute has been shown to be an efficient length for listening by analysts, without attention fading and signals being missed.
 
+
 ## Files per hour
 A number of studies have found that a stratified ‘on-off ’ time sampling programme (e.g. recording 1 minute in every 10), can capture comparable data to continuous recording, with consequent benefits in terms of battery life, data storage and processing time.
 
@@ -138,6 +143,7 @@ https://doi.org/10.1093/biosci/biy147
 
 ### Rationale
 In combination with file lengths of one minute, as recommended above, 12 recordings per hour provide a 20% time-sampling coverage. This level of sampling effort has been shown to adequately capture soundscape characteristics or species directions, while balancing data storage and processing requirements.
+
 
 ## Daily programme
 Detection probability for bird and other taxa normally varies with time of the day, so recording times distributed throughout the day will sample the entire community most effectively.
@@ -170,6 +176,7 @@ Recording through the full 24 hour period will capture all time events during th
 
 Recording sound through the 24 hour diel cycle can be important in ecoacoustic studies to capture the full range of sounds produced in an ecosystem, and to study the effects
 of diel patterns on sound production. Many ecosystems are characterised by changes in the soundscape produced over the course of a day in response to the natural history and behaviour of different species. By recording sound over a full diel cycle, it is possible to study these effects.
+
 
 ## Deployment period
 Automated recorders are able to be powered for extended periods, particularly if using extended battery packs or even solar power. The storage capacity of SD cards has also expanded to the extent that days or weeks of sound data can be recorded on single deployments.
@@ -205,6 +212,7 @@ Melo et al (2021) considered that species detection in monitoring programs is st
 ### Rationale
 Automated passive acoustic methods enable long-term deployments that can not normally be matched by observers. They thus enable a higher sampling effort and wider temporal range of sampling than traditional approaches, and consequently produce higher probabilities of species detection.
 
+
 ## Number of deployments per year
 While many studies focus on particular times of year, such as the spring bird breeding period, for long-term ecoacoustics studies there will be considerable value in recording audio data throughout the annual cycle.
 
@@ -218,9 +226,9 @@ Bradfer-Lawrence et al., (2019) considered that short deployments during distinc
 Siddagangaiah et al. (2022) studied the annual variation in underwater soundscapes, finding a phenology of fish chorusing that changed between seasons, reflecting species behaviour.
 https://doi.org/10.1038/s43247-022-00442-5
 
-
 ### Rationale
 Species occupancy and vocal activity levels will vary throughout the year, as will the overall soundscape of an ecosystem. To adequately capture this annual variation, it is recommended that ecoacoustic studies should cover all seasons: summer, autumn, winter and spring.
+
 
 ## Spatial layout
 When using multiple recorders, a decision needs to be made on how to arrange these spatially. Random, transect, grid or fractal patterns can be used, or the location of recorders can be selected based on target features such as habitat types or nesting locations.
