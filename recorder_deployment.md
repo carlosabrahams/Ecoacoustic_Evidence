@@ -1,9 +1,6 @@
 # An evidence-based guide for ecoacoustic recorder deployment
 **Contents**
 
-[TOC]
-
-
 
 ## Introduction
 
@@ -15,8 +12,20 @@ The recommendations collated below were originally developed for two separate pu
 
 As part of the evidence gathered for these recommendations, a questionnaire was circulated to attendees at the UK Acoustics Network (UKAN+) ecoacoustics symposium held at Manchester Metropolitan University on 15-16th June 2022. This asked a series of questions related to the parameters of a recommended survey protocol for an ecoacoustics study, focussed on developing audio data for analysis with acoustic indices. The favoured choices of the 84 respondents to the survey are included below (referred to as ‘UKAN questionnaire’).
 
+## Table of Contents
 
+- [Sample Rate](#sample-rate)
+- [Bit depth](#bit-depth)
+- [File type](#file-type)
+- [File length](#file-length)
+- [Files per hour](#files-per-hour)
+- [Daily programme](#daily-programme)
+- [Deployment period](#deployment-period)
+- [Number of deployments per year](#number-of-deployments-per-year)
+- [Spatial layout](#spatial-layout)
+- [Spatial density](#spatial-density)
 
+---
 
 ## Sample Rate
 Sample rate is the number of sound samples recorded per second. It affects the temporal resolution of acoustic data, and sets the highest frequency of the sound that will be recorded. The sample rate is programmed within the recording device settings.
@@ -65,7 +74,8 @@ https://doi.org/10.1111/1365-2664.13229
 Burivalova et al (2017) used a 44 kHz sample rate when using soundscapes to detect the effects of human influence on tropical forests.
 https://doi.org/10.1111/cobi.12968
 
-
+[Back to top](#introduction)
+---
 
 ## Bit depth
 
@@ -85,7 +95,8 @@ For the majority of automated acoustic recorders, the bit depth is set by the un
 **Research evidence**
 There has been little study of the effects of bit depth on ecoacoustic studies.
 
-
+[Back to top](#introduction)
+---
 
 ## File type
 
@@ -119,7 +130,8 @@ https://doi.org/10.1002/ece3.8042
 For bird surveys, Darras et al. (2018) recommended recording all audible frequencies in uncompressed WAV or FLAC audio file format.
 https://doi.org/10.1111/1365-2664.13229
 
-
+[Back to top](#introduction)
+---
 
 ## File length
 
@@ -167,9 +179,8 @@ https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21285
 Wimmer et al (2013) found that 120 one-minute recordings, randomly selected from the three hours following sunrise, was the most efficient way to detect the highest number of species from a five-day recording period.
 https://doi.org/10.1890/12-2088.1
 
-
-
-
+[Back to top](#introduction)
+---
 
 ## Files per hour
 
@@ -202,11 +213,8 @@ https://doi.org/10.1093/biosci/biy147
 Pieretti et al. (2015) simulated five different recording schedules from continuous sound files: (i) one minute every five; (ii) one minute every 10; (iii) one minute every 20; (iv) one minute every 30; and (v) one minute every 60. For each schedule they calculated the Acoustic Complexity Index. The 1 min in five schedule closely correlated with the soundscape captured by continuous recordings (r>0.90; p<0.01), while providing an 80% storage space and battery power reduction compared to the continuous sampling. 
 https:///doi.org/10.1111/2041-210X.13254#mee313254-bib-0035
 
-
-
-
-
-
+[Back to top](#introduction)
+---
 
 ## Daily programme
 
@@ -259,7 +267,8 @@ https://doi.org/10.1002/ece3.1296
 Wimmer et al (2013) found that 120 one-minute recordings, randomly selected from the three hours following sunrise, was the most efficient way to detect the highest number of species from a five-day recording period.
 https://doi.org/10.1890/12-2088.1
 
-
+[Back to top](#introduction)
+---
 
 ## Deployment period
 
@@ -317,7 +326,8 @@ https://doi.org/10.1071/WR16226
 The bird study by La & Nudds (2016) found that a survey period of at least 3 days was required to maximise species richness.
 https://doi.org/10.1002/ecs2.1294
 
-
+[Back to top](#introduction)
+---
 
 ## Number of deployments per year
 
@@ -341,7 +351,8 @@ https://doi.org/10.1038/s43247-022-00442-5
 Bradfer-Lawrence et al., (2019) considered that short deployments during distinct seasons may be as suitable as a single long deployment (e.g. to total 120+ hours). 
 https://doi.org/10.1111/2041-210X.13254
 
-
+[Back to top](#introduction)
+---
 
 ## Spatial layout
 
@@ -368,7 +379,8 @@ https://doi.org/10.1002/rse2.97
 In their study on bats, Froidevuax et al. (2014) showed that the three-dimensional structure of forests, including all microhabitats, must be sampled to adequately record the full species complement of bat communities.
 https://doi.org/10.1002/ece3.1296
 
-
+[Back to top](#introduction)
+---
 
 ## Spatial density
 
@@ -401,5 +413,4 @@ https://doi.org/10.1016/j.ecolind.2019.105608
 The Yip et al. (2017) study on bird sounds confirmed that, for all species calls and broadcast tones, detection probability declined with increasing distance and decreasing sound amplitude, and was higher in open vegetation than in closed vegetation.
 https://doi.org/10.5751/ACE-00997-120111
 
-
-
+[Back to top](#introduction)
