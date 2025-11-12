@@ -1,3 +1,25 @@
+# Ecoacoustic Evidence
+
+## Evidence-based guidance for ecoacoustic survey and monitoring methods
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
+
+---
+
+## About this guide
+
+Ecoacoustics — the study of soundscapes to understand ecological processes — depends on well-designed recording and analysis methods.  
+
+This repository provides evidence-based guidance for ecoacoustic monitoring, combining practical recommendations with scientifically supported best practices for recorder deployment, metadata management, and data analysis. While useful guidance already exists for scientists and conservation practitioners (examples below), much of it is presented as static documents that may not keep pace with the rapid development of the field:  
+
+- [WWF Acoustic Monitoring Guidance](https://www.wwf.org.uk/project/conservationtechnology/acoustic-monitoring)  
+- [Guidelines for Long-Term Ecoacoustic Monitoring](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20230136742/)  
+- [UK Bird Survey Guidelines: Acoustic Survey Methods](https://birdsurveyguidelines.org/acoustic-survey-methods)  
+
+This GitHub project aims to fill that gap by serving as a living, community-driven resource. It provides consistent, transparent, and reproducible methods informed by both scientific evidence and practitioner experience. The approach is inspired by [Conservation Evidence](https://www.conservationevidence.com), which synthesizes research on conservation actions — such as habitat or species management — into accessible, evidence-based summaries.
+
+
 ## Repository contents
 
 This repository is organized into three main sections:
@@ -16,7 +38,7 @@ This repository is organized into three main sections:
 ## Background
 
 The recommendations presented here were developed through a synthesis of peer-reviewed evidence, field experience, and expert input.  
-A key component of this work was a **questionnaire distributed at the UK Acoustics Network (UKAN+) Ecoacoustics Symposium** (Manchester Metropolitan University, June 15–16, 2022), which gathered input from 84 ecoacoustic practitioners. The responses informed the development of best-practice recommendations for ecoacoustic study design, recorder settings, and deployment strategies.
+A key component of this work was a questionnaire distributed at the UK Acoustics Network (UKAN+) Ecoacoustics Symposium (Manchester Metropolitan University, June 15–16, 2022), which gathered input from 84 ecoacoustic practitioners. The responses informed the development of best-practice recommendations for ecoacoustic study design, recorder settings, and deployment strategies.
 
 ---
 
@@ -37,10 +59,10 @@ If you are planning an ecoacoustic monitoring project:
 This repository is designed to evolve with the ecoacoustics community.  
 We warmly invite **contributions, comments, and new evidence** that can strengthen or refine the recommendations.
 
-Ways to contribute:
+Ways to [contribute](./contribute.md):
 - 💬 **Open an Issue** to share feedback, point out uncertainties, or suggest revisions.  
 - 🧩 **Submit a Pull Request** to add new evidence or clarify existing guidance.  
-- 📄 **Email your input** (e.g. relevant literature, summaries, or datasets) to *[your.email@institution.edu]*.  
+- 📄 **Email your input** (e.g. relevant literature, summaries, or datasets) to *[carlos.abrahams@ntu.ac.uk]*.  
 
 We are especially keen to receive:
 - Summaries or excerpts (“evidence snippets”) from published or ongoing ecoacoustic research.  
@@ -67,7 +89,7 @@ Please cite it if you use or adapt the material, replacing the `<>` with the DOI
 
 ## Acknowledgements
 
-This guidance was developed with input from the ecoacoustics research community and participants of the **UKAN+ Ecoacoustics Symposium (2022)**.  
+This guidance was developed with input from the ecoacoustics research community. 
 We thank all contributors and reviewers who provided feedback and shared field experience.
 
-Correspondence: *[your.email@institution.edu]*
+Correspondence: *[carlos.abrahams@ntu.ac.uk*
