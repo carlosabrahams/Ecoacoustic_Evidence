@@ -1,24 +1,3 @@
-# Ecocaoustic Evidence
-## An evidence-based guide for ecoacoustic survey and monitoring methods
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
-
-## About this repository
-This repository provides evidence-based guidance for ecoacoustic monitoring, bringing together practical and scientifically supported recommendations for the deployment, metadata management, and analysis of ecoacoustic data.
-
-Ecoacoustics — the study of soundscapes to understand ecological processes — relies on careful design of recording and analysis methods. To aid this, users in both the research and conservation sectors can benefit greatly from coordinated best-practice guidance.  There are some good examples of this already available, but these are static documents that are unlikely to be updated as the science develops:
-
-
-- [WWF Acoustic Monitoring Guidelines](https://www.wwf.org.uk/project/conservationtechnology/acoustic-monitoring)
-- [Good-Practice Guidelines for Long-Term Ecoacoustic Monitoring](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20230136742/)  
-- [UK Bird Survey Guidelines: Acoustic Survey Methods](https://birdsurveyguidelines.org/acoustic-survey-methods)
-
-
-This GitHub project aims to fill the gap as a living, community-driven resource, offering consistent, transparent, and reproducible methods based on scientific evidence and practitioner experience.
-
----
-
 ## Repository contents
 
 This repository is organized into three main sections:
@@ -37,7 +16,7 @@ This repository is organized into three main sections:
 ## Background
 
 The recommendations presented here were developed through a synthesis of peer-reviewed evidence, field experience, and expert input.  
-A key component of this work was a questionnaire distributed at the UK Acoustics Network (UKAN+) Ecoacoustics Symposium (Manchester Metropolitan University, June 15–16, 2022), which gathered input from 84 ecoacoustic practitioners. The responses informed the development of best-practice recommendations for ecoacoustic study design, recorder settings, and deployment strategies.
+A key component of this work was a **questionnaire distributed at the UK Acoustics Network (UKAN+) Ecoacoustics Symposium** (Manchester Metropolitan University, June 15–16, 2022), which gathered input from 84 ecoacoustic practitioners. The responses informed the development of best-practice recommendations for ecoacoustic study design, recorder settings, and deployment strategies.
 
 ---
 
@@ -47,8 +26,8 @@ If you are planning an ecoacoustic monitoring project:
 
 1. **Define your objectives** – species detection, soundscape monitoring, or long-term ecological assessment.  
 2. **Consult the [Recorder Deployment](./recorder-deployment.md)** guide for device selection, audio settings, and deployment strategies.  
-3. **Record contextual data** using the [Metadata](./metadata.md)** guidelines.  
-4. **Process and analyze** your data following the [Data Analysis](./data-analysis.md)** recommendations.  
+3. **Record contextual data** using the **[Metadata](./metadata.md)** guidelines.  
+4. **Process and analyze** your data following the **[Data Analysis](./data-analysis.md)** recommendations.  
 5. **Document and share** your methods and findings to support reproducibility.
 
 ---
@@ -61,14 +40,14 @@ We warmly invite **contributions, comments, and new evidence** that can strength
 Ways to contribute:
 - 💬 **Open an Issue** to share feedback, point out uncertainties, or suggest revisions.  
 - 🧩 **Submit a Pull Request** to add new evidence or clarify existing guidance.  
-- 📄 **Email your input** (e.g. relevant literature, summaries, or evidence snippets) to *carlos.abrahams@ntu.ac.uk*.  
+- 📄 **Email your input** (e.g. relevant literature, summaries, or datasets) to *[your.email@institution.edu]*.  
 
 We are especially keen to receive:
-- Summaries or excerpts (“evidence snippets”) from existing or new ecoacoustic research.  
+- Summaries or excerpts (“evidence snippets”) from published or ongoing ecoacoustic research.  
 - Comments on the validity and applicability of the recommendations.  
 - Suggestions for additional sections or case studies.
 
-All contributions — large or small — are appreciated and will be acknowledged where appropriate.  
+All contributions—large or small—are appreciated and will be acknowledged where appropriate.  
 
 Together we can build a stronger, evidence-based foundation for ecoacoustic monitoring.
 
@@ -81,14 +60,14 @@ Please cite it if you use or adapt the material, replacing the `<>` with the DOI
 
 **Suggested citation:**
 
-> Abrahams, C. (year) *Ecoacoustic Evidence: Evidence-Based Guidance for Ecoacoustic Survey and Monitoring Methods.*  
-> GitHub repository: [https://github.com/your-org/ecoacoustic-evidence](https://github.com/carlosabrahams/Ecoacoustic_Evidence).  
-
+> *Ecoacoustic Evidence: Evidence-Based Guidance for Ecoacoustic Survey and Monitoring Methods.*  
+> GitHub repository: [https://github.com/carlosabrahams/Ecoacoustic-Evidence](https://github.com/carlosabrahams/Ecoacoustic-Evidence).  
 
 ---
 
 ## Acknowledgements
 
-This guidance was developed with input from the ecoacoustics research community. We thank all contributors and reviewers who provided feedback and shared field experience.
+This guidance was developed with input from the ecoacoustics research community and participants of the **UKAN+ Ecoacoustics Symposium (2022)**.  
+We thank all contributors and reviewers who provided feedback and shared field experience.
 
-Correspondence: *carlos.abrahams@ntu.ac.uk*
+Correspondence: *[your.email@institution.edu]*
