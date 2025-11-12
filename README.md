@@ -62,7 +62,7 @@ We warmly invite **contributions, comments, and new evidence** that can strength
 Ways to [contribute](./contribute.md):
 - 💬 **Open an Issue** to share feedback, point out uncertainties, or suggest revisions.  
 - 🧩 **Submit a Pull Request** to add new evidence or clarify existing guidance.  
-- 📄 **Email your input** (e.g. relevant literature, summaries, or datasets) to *[carlos.abrahams@ntu.ac.uk]*.  
+- 📄 **Email your input** (e.g. relevant literature, summaries, or datasets) to *carlos.abrahams@ntu.ac.uk*.  
 
 We are especially keen to receive:
 - Summaries or excerpts (“evidence snippets”) from published or ongoing ecoacoustic research.  
@@ -78,7 +78,7 @@ Together we can build a stronger, evidence-based foundation for ecoacoustic moni
 ## Cite this work
 
 This work is released under a **CC-BY-4.0 license**.  
-Please cite it if you use or adapt the material, replacing the `<>` with the DOI provided above.
+Please cite it if you use or adapt the material.
 
 **Suggested citation:**
 
@@ -92,4 +92,4 @@ Please cite it if you use or adapt the material, replacing the `<>` with the DOI
 This guidance was developed with input from the ecoacoustics research community. 
 We thank all contributors and reviewers who provided feedback and shared field experience.
 
-Correspondence: *[carlos.abrahams@ntu.ac.uk*
+Correspondence: *carlos.abrahams@ntu.ac.uk*
