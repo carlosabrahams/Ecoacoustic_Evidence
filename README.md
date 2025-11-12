@@ -24,13 +24,13 @@ This GitHub project aims to fill that gap by serving as a living, community-driv
 
 This repository is organized into three main sections:
 
-1. 🎙️ [**Recorder Deployment**](./recorder-deployment.md)  
+1. 🎙️ [**Recorder Deployment**](./recorder_deployment.md)  
    Evidence-based recommendations for programming and field deployment of automated acoustic recorders. Includes guidance on audio settings, recording schedules, and spatial sampling design.
 
 2. 🗂️ [**Metadata**](./metadata.md)  
    Recommendations for recording essential contextual information alongside ecoacoustic data, following FAIR (Findable, Accessible, Interoperable, and Reusable) data principles.
 
-3. 📊 [**Data Analysis**](./data-analysis.md)  
+3. 📊 [**Data Analysis**](./data_analysis.md)  
    Overview of approaches for processing and analyzing ecoacoustic recordings, including acoustic indices, species detection, and statistical considerations.
 
 ---
@@ -47,9 +47,9 @@ A key component of this work was a questionnaire distributed at the UK Acoustics
 If you are planning an ecoacoustic monitoring project:
 
 1. **Define your objectives** – species detection, soundscape monitoring, or long-term ecological assessment.  
-2. **Consult the [Recorder Deployment](./recorder-deployment.md)** guide for device selection, audio settings, and deployment strategies.  
+2. **Consult the [Recorder Deployment](./recorder_deployment.md)** guide for device selection, audio settings, and deployment strategies.  
 3. **Record contextual data** using the **[Metadata](./metadata.md)** guidelines.  
-4. **Process and analyze** your data following the **[Data Analysis](./data-analysis.md)** recommendations.  
+4. **Process and analyze** your data following the **[Data Analysis](./data_analysis.md)** recommendations.  
 5. **Document and share** your methods and findings to support reproducibility.
 
 ---
