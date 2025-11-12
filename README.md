@@ -82,7 +82,7 @@ Please cite it if you use or adapt the material, replacing the `<>` with the DOI
 
 **Suggested citation:**
 
-> *Ecoacoustic Evidence: Evidence-Based Guidance for Ecoacoustic Survey and Monitoring Methods.*  
+> Abrahams, Carlos (year) *Ecoacoustic Evidence: Evidence-Based Guidance for Ecoacoustic Survey and Monitoring Methods.*  
 > GitHub repository: [https://github.com/carlosabrahams/Ecoacoustic-Evidence](https://github.com/carlosabrahams/Ecoacoustic-Evidence).  
 
 ---
