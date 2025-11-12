@@ -28,6 +28,7 @@ As part of the evidence gathered for these recommendations, a questionnaire was 
 ---
 
 ## Sample Rate
+
 Sample rate is the number of sound samples recorded per second. It affects the temporal resolution of acoustic data, and sets the highest frequency of the sound that will be recorded. The sample rate is programmed within the recording device settings.
 
 > We recommend using a 48 kHz sample rate
@@ -35,6 +36,7 @@ Sample rate is the number of sound samples recorded per second. It affects the t
 
 
 **Rationale**
+
 A 48 kHz sample rate will record the full range of human hearing, and be able to capture a wide range of biological and environmental sounds in high resolution.
 
 The sample rate you should use for audio files in ecoacoustic studies depends on the specific requirements of your study and the types of sounds you are trying to capture. In general, a higher sample rate will result in a greater temporal resolution and allow for more accurate representation of the original sound. However, higher sample rates also result in larger file sizes, which can be an issue with large datasets.
@@ -54,6 +56,7 @@ High sample rates can be ‘downsampled’ to reduce file size if necessary - th
 
 
 **Research evidence**
+
 UKAN questionnaire: 55% of respondents selected a sample rate of 44.1/48 kHz for ecoacoustic studies.
 
 The Silent Cities project (Challéat et al, 2024) used a 48 kHz sample rate in its global scale study of soundscapes during the Covid-19 lockdown.
@@ -76,7 +79,7 @@ https://doi.org/10.1111/cobi.12968
 
 [Back to top](#introduction)
 ---
-
+  
 ## Bit depth
 
 The bit depth of an audio file refers to the number of bits used to represent each sample of the audio signal. A higher bit depth allows for a greater dynamic range, which means that the audio file can capture a wider range of amplitude levels. However, higher bit depths also result in larger file sizes.
@@ -84,20 +87,20 @@ The bit depth of an audio file refers to the number of bits used to represent ea
 > We recommend using a 16 bit depth encoding
 
 
-
 **Rationale**
+
 In ecoacoustic studies, it is common to use bit depths of 16 bits or 24 bits. These bit depths are sufficient for capturing a wide range of sound volumes. Higher bit depths, especially 32 bit recordings, reduce the potential for ‘clipping’ with loud sounds.
 
 For the majority of automated acoustic recorders, the bit depth is set by the unit’s firmware and can not be changed. Hence, no decision on this parameter is normally necessary by the user. The majority of automated units, e.g. Wildlife Acoustics, Audiomoth, Frontier Labs and Swift all record 16 bit files. Handheld recorders from manufacturers such as Tascam and Zoom can also record at 24 or 32 bit depth, which provide a wider amplitude scale.
 
 
-
 **Research evidence**
+
 There has been little study of the effects of bit depth on ecoacoustic studies.
 
 [Back to top](#introduction)
 ---
-
+  
 ## File type
 
 There are a number of different file types that can be used for audio files in ecoacoustic studies. Some common file types include WAV, AIFF, FLAC, and MP3.
@@ -107,6 +110,7 @@ There are a number of different file types that can be used for audio files in e
 
 
 **Rationale**
+
 WAV (Waveform Audio File Format) is a ubiquitous file type that can be produced by most recorders, and processed by most software. Although file sizes can be larger than other file types, the files are uncompressed and lossless, preserving all the data from the original recording.
 
 FLAC (Free Lossless Audio Codec) files are a lossless compressed format. The file sizes often being approximately half of an equivalent WAV file. Some researchers therefore use this format to archive recordings, saving space (and cost), while not reducing the information held within the audio recording.
@@ -121,6 +125,7 @@ The choice of file type depends partly on the recorder used. For example, Audiom
 
 
 **Research evidence**
+
 The meta-analysis of acoustic index studies by Alcocer et al. (2022) revealed that 94% of the projects used WAV format audio files.
 https://doi.org/10.1111/brv.12890
 
@@ -142,11 +147,13 @@ Acoustic recorders can be programmed to record file lengths ranging from seconds
 
 
 **Rationale**
+
 Analysis of data for ecoacoustic studies has commonly been undertaken using 1 min length files, such that this has become a [de facto standard](https://research.ecosounds.org/2019/08/09/analyzing-data-in-one-minute-chunks.html). This relatively short file length enables a greater range of time periods to be covered for the same data volume, aids parallel computation with manageable file sizes, retains sufficient detail of vocalisation structures (e.g. birdsong sequences), and can be easily viewed in reasonable temporal detail on a standard computer screen. In addition, when calculating acoustic indices, this file length seems to achieve a compromise between introducing boundary effects from cropping sound sequences into short segments, and over-smoothing temporal variation to gross averages. Finally, one minute has been shown to be an efficient length for listening by analysts, without attention fading and signals being missed.
 
 
 
 **Research evidence**
+
 UKAN questionnaire: 31% of respondents selected a 1 minute file length, with 20% selecting 5 minutes.
 
 The 35 acoustic index studies reviewed by Alcocer et al. (2022) used file lengths equal to (40%) or shorter than 1 minute (40%).
@@ -191,11 +198,13 @@ A number of studies have found that a stratified ‘on-off ’ time sampling pro
 
 
 **Rationale**
+
 In combination with file lengths of one minute, as recommended above, 12 recordings per hour provide a 20% time-sampling coverage. This level of sampling effort has been shown to adequately capture soundscape characteristics or species directions, while balancing data storage and processing requirements.
 
 
 
 **Research evidence**
+
 UKAN questionnaire: 27% of respondents selected 6 files per hour, with 17% selecting 12 files per hour.
 
 Shaw et al. (2022) investigated the effort required to estimate bird species richness and composition in European forests. They compared sampling intensity for 1 min files, in intervals from 1-in-3 (n = 20 per hour) to 1-in-60 min (n = 1 per hour). The highest species richness was with recordings at the highest intensity of one every 3 mins. 
@@ -225,6 +234,7 @@ Detection probability for bird and other taxa normally varies with time of the d
 
 
 **Rationale**
+
 Recording through the full 24 hour period will capture all time events during the day, including the avian dawn and evening choruses, and nocturnal animals. It also allows the soundscape to be characterised evenly through the diel cycle.
 
 Recording sound through the 24 hour diel cycle can be important in ecoacoustic studies to capture the full range of sounds produced in an ecosystem, and to study the effects of diel patterns on sound production. Many ecosystems are characterised by changes in the soundscape produced over the course of a day in response to the natural history and behaviour of different species. Bird detection probability, for example, normally varies with time of the day, so recording times distributed throughout the day will sample the entire community most effectively. By recording sound over a full diel cycle, it is possible to study these effects.
@@ -232,6 +242,7 @@ Recording sound through the 24 hour diel cycle can be important in ecoacoustic s
 
 
 **Research evidence**
+
 UKAN questionnaire: 67% of respondents selected the full 24 hr daily cycle
 
 Shaw et al. (2022) investigated the effort to estimate bird species richness and composition in European forests. They compared recording in a dawn period (1 hr before sunrise), a morning period (1 hr beginning 3 hr after sunrise), and a combined period including both day phases. Species richness was significantly higher when including both day phases compared to dawn alone, and was slightly higher in the morning compared to dawn (yielding 80% of recorded species). However, certain nocturnal/ crepuscular species could only be observed in the dawn period. 
@@ -279,11 +290,13 @@ Automated recorders are able to be powered for extended periods, particularly if
 
 
 **Rationale**
+
 Automated passive acoustic methods enable long-term deployments that can not normally be matched by observers. They thus enable a higher sampling effort and wider temporal range of sampling than traditional approaches, and consequently produce higher probabilities of species detection.
 
 
 
 **Research evidence**
+
 UKAN questionnaire: 22% of respondents considered that a one week deployment was appropriate for ecoacoustic studies, with 20% selecting two weeks.
 
 The 35 acoustic index studies reviewed by Alcocer et al. (2022) recorded for an average of 44 days (range 1–282 days).
@@ -338,11 +351,13 @@ While many studies focus on particular times of year, such as the spring bird br
 
 
 **Rationale**
+
 Species occupancy and vocal activity levels will vary throughout the year, as will the overall soundscape of an ecosystem. To adequately capture this annual variation, it is recommended that ecoacoustic studies should cover all seasons: summer, autumn, winter and spring.
 
 
 
 **Research evidence**
+
 UKAN questionnaire: 51% of respondents selected 4 deployments per year (one per season).
 
 Siddagangaiah et al. (2022) studied the annual variation in underwater soundscapes, finding a phenology of fish chorusing that changed between seasons, reflecting species behaviour.
@@ -363,11 +378,13 @@ When using multiple recorders, a decision needs to be made on how to arrange the
 
 
 **Rationale**
+
 The spatial layout of recorders in a study will largely depend on the aims of the project. Investigations of environmental gradients will promote the use of linear, i.e. transect, layouts, while studies examining differences between habitat types will likely employ a selected or stratified grid layout. Projects to determine occupancy of particular habitat features, such as amphibian presence in ponds, will clearly make use of closely targeted locations. Many studies have used survey designs where detectors are rotated across a number of locations to increase geographical coverage. This reduces comparability between sites in terms of the dates when sampling occurs, but can be effective in maximising limited hardware resources.
 
 
 
 **Research evidence**
+
 UKAN questionnaire: 58% of respondents would use a selected/optimised spatial distribution of sensors (e.g. by habitat type), with 17% choosing a grid-based arrangement.
 
 Wood & Peery (2022) discuss two different sampling frameworks for acoustic studies. Recorders may be deployed preferentially in areas known to be important to a species, such as nest sites, implying an ‘area of occupancy’ concept of a species range, Alternatively, recording locations may be randomly determined without relation to any knowledge of species use, e.g. in a survey grid, within a wider ‘extent of occurrence’. Preferential sampling requires substantial pre-survey information, but leads to intuitive parameter interpretation and greater precision due to its finer spatial scale; while greater survey coverage is attainable with random sampling.
@@ -391,11 +408,13 @@ Unless simultaneous recordings are specifically required across an array of reco
 
 
 **Rationale**
+
 For coverage of a site, the aim is normally to sample across the range of the habitats and species of interest, with recorders placed to limit overlap of detection radii so that counts are independent. The effective radius of most recorders is in the region of 50 m, so a minimum separation distance of at least 100 m should be used. As a recommended standard, a larger 250 m spacing between recorder locations would provide 16 sampling locations/km2. This is dense enough to provide a good level of survey data, and is also likely to be relevant to the territory sizes of many species of interest within ecological assessments.
 
 
 
 **Research evidence**
+
 UKAN questionnaire: 30% of respondents selected a 500m separation distance between recorders (equal to 4 recorders/km2), with 23% choosing a 250m distance (equal to 16 recorders/km2).
 
 Symes et al (2022) performed a simulation to test trade-offs between recording at more sites, or for longer durations, when total sampling time was the same. Adding locations resulted in more species per unit of analysis effort than adding more days, e.g. species detection saturated at 30 species when sampling in one location and at 41 species when the same sampling duration was spread was across ten sites.
