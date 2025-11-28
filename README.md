@@ -11,7 +11,7 @@
 
 Ecoacoustics — the study of soundscapes to understand ecological processes — depends on well-designed recording and analysis methods.  
 
-This repository provides evidence-based guidance for ecoacoustic monitoring, combining practical recommendations with scientifically supported best practices for recorder deployment, metadata management, and data analysis. While useful guidance already exists for scientists and conservation practitioners (examples below), much of it is presented as static documents that may not keep pace with the rapid development of the field:  
+This repository provides evidence-based guidance for ecoacoustic monitoring, combining practical recommendations with scientifically supported best practices for recorder deployment, metadata management, and data analysis. It focusses on terrestrial, audible-range acoustic environments. While useful guidance already exists for scientists and conservation practitioners (examples below), much of it is presented as static documents that may not keep pace with the rapid development of the field:  
 
 - [WWF Acoustic Monitoring Guidance](https://www.wwf.org.uk/project/conservationtechnology/acoustic-monitoring)  
 - [Guidelines for Long-Term Ecoacoustic Monitoring](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20230136742/)  
@@ -38,6 +38,7 @@ This repository is organized into three main sections:
 ## Background
 
 The recommendations presented here were developed through a synthesis of peer-reviewed evidence, field experience, and expert input.  
+
 A key component of this work was a questionnaire distributed at the UK Acoustics Network (UKAN+) Ecoacoustics Symposium (Manchester Metropolitan University, June 15–16, 2022), which gathered input from 84 ecoacoustic practitioners. The responses informed the development of best-practice recommendations for ecoacoustic study design, recorder settings, and deployment strategies.
 
 ---
