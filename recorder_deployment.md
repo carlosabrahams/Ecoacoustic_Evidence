@@ -1,6 +1,4 @@
 # An evidence-based guide for ecoacoustic recorder deployment
-**Contents**
-
 
 ## Introduction
 
