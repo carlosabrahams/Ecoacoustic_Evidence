@@ -8,7 +8,7 @@ There are two simple approaches that can be taken to analyse and present the dat
 
 If using any automated recogniser or clustering process to identify species vocalizations, then a degree of manual verification is required, so that error rates can be checked and the quality of the recogniser can be properly assessed. This quality assurance process need not review all detections, but can use a suitable sub-sample of the complete dataset, or may focus on rare/unusual species in the context of the site or habitat being surveyed. This verification process, and its results, should be fully set out in the survey report.
 
-When using BirdNET specifically, we recommend configuring the software with prediction segment overlaps of 1–2 seconds. Clear recommendations for sensitivity are not yet established, and may depend on study context. A confidence threshold of ~0.5 is suggested for assemblage-level analyses to balance precision and recall, while reducing false positives. Additionally, requiring a species to be detected a minimum number of times (e.g., ten detections) before including it in results can further reduce spurious misidentifications.
+When using BirdNET specifically, we recommend configuring the software with prediction segment overlaps of 1–2 seconds. Clear recommendations for sensitivity are not yet established, and may depend on study context. A confidence threshold of ~0.5 is suggested for assemblage-level analyses to balance precision and recall, while reducing false positives. Higher confidence thresholds (0.7-0.8) will reduce the need for manual verification, while potentially missing some rare or pooorly-recorded species. Requiring a species to be detected a minimum number of times (e.g., ten detections) before including it in results can help reduce misidentifications.
 
 ## Rationale
 
@@ -28,6 +28,9 @@ Pérez-Granados et al. (2025) conducted an evaluation of BirdNET parameter setti
 Funosas et al. (2024) assessed BirdNET for European bird community monitoring. Increasing overlap improved recall, with 2-second overlaps performing best, while a detection sensitivity of 1.5 maximized overall performance. Confidence thresholds influenced precision–recall trade-offs: low thresholds (0.3) maximized recall, whereas higher thresholds (0.55–0.65) reduced false positives and improved precision at the dataset level. Performance was higher for species that are well representde in the training dataset and for longer-duration field datasets, while overlapping species vocalisations reduced precision but not recall. 
   https://doi.org/10.1016/j.ecolind.2024.112146
 
+Sethi et al. (2024) evaluated BirdNET performance across four regions. They limited their analysis to confidence scores higher than 0.8, yielding the detection of 379 species, with 627,995. Limiting the analysis to the species with at least 50 detections, reduced this output to 136 species, and the number of detections to 625,113.
+  https://doi.org/10.1073/pnas.2315933121
+
 Pérez-Granados (2023) reviewed a number of published studies that used BirdNET to detect and classify bird sounds.  Amongst these, average precision (% detections correctly identified) usually ranged around 72–85%, and recall rate (% target species vocalizations detected) ranged around 33–84%. The review showed that the use of confidence score thresholds for classifications increased the percentage of detections correctly identified to species, but lowered the proportion of calls and bird species detected.
   https://doi.org/10.1111/ibi.13193
 
@@ -45,3 +48,5 @@ Toenies & Rich (2021) assessed the ability of BirdNET to correctly identify spec
 
 Perez-Granados & Traba (2021) reviewed studies that used acoustic recorders for estimating bird densities or bird abundance. The most common approach was to estimate the relationship between the number of vocalizations per recording time with bird density or bird abundance estimated in the field, with the result that 79% of studies showed agreement between estimates obtained by human surveyors and those by acoustic methods.
   https://doi.org/10.1111/ibi.12944
+
+
