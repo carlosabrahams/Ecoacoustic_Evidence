@@ -48,7 +48,7 @@ Please keep content clear, concise, and evidence-based.
 
 Use Markdown formatting consistently.
 
-Alway provide a link to the relevant reference or resource.
+Always provide a link to the relevant reference or resource.
 
 Ensure new sections or edits do not duplicate existing content.
 
