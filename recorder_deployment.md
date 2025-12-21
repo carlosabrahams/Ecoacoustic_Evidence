@@ -407,13 +407,16 @@ Unless simultaneous recordings are specifically required across an array of reco
 
 **Rationale**
 
-For coverage of a site, the aim is normally to sample across the range of the habitats and species of interest, with recorders placed to limit overlap of detection radii so that counts are independent. The effective radius of most recorders is in the region of 50 m, so a minimum separation distance of at least 100 m should be used. As a recommended standard, a larger 250 m spacing between recorder locations would provide 16 sampling locations/km2. This is dense enough to provide a good level of survey data, and is also likely to be relevant to the territory sizes of many species of interest within ecological assessments.
+For coverage of a site, the aim is normally to sample across the range of the habitats and species of interest, with recorders placed to limit overlap of detection radii so that counts are independent. The effective radius of most recorders is commonly =>50 m, so a minimum separation distance of at least 100 m should be used. As a recommended standard, a larger 250 m spacing between recorder locations would provide 16 sampling locations/km2. This is dense enough to provide a good level of survey data, minimise double-counting of many taxa, and is also likely to be relevant to the territory sizes of many species of interest within ecological assessments.
 
 
 
 **Research evidence**
 
 UKAN questionnaire: 30% of respondents selected a 500m separation distance between recorders (equal to 4 recorders/km2), with 23% choosing a 250m distance (equal to 16 recorders/km2).
+
+Winiarska et al. (2024) estimated detection distances of 31 bird species in woodland habitat. Detection distance inceased with higher humidity, and large-bodied, louder, and lower-frequency (0.1-2.5 kHz) birds were detected at greater distances than smaller, high-pitched (1.5-8.5 kHz) species, which were generally detectable to a maximum of around 150m. Two species - Common Cuckoo and Stock Dove - were detected at 500m, the longest distance included in the study.  Long-tailed Tit and Pied Flycatcher had the shortest detection distances, with an effective range of ~100m.  The authors recommend using a recorder spacing of 3-5 times the detection distance of birds of interest - so potentially having spacings of 300m to 2km, depending on species.  
+https://doi.org/10.1038/s41598-024-51297-z
 
 Symes et al (2022) performed a simulation to test trade-offs between recording at more sites, or for longer durations, when total sampling time was the same. Adding locations resulted in more species per unit of analysis effort than adding more days, e.g. species detection saturated at 30 species when sampling in one location and at 41 species when the same sampling duration was spread was across ten sites.
 https://doi.org/10.1002/ece3.8797
