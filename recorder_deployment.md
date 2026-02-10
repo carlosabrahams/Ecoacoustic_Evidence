@@ -371,7 +371,7 @@ https://doi.org/10.1111/2041-210X.13254
 
 When using multiple recorders, a decision needs to be made on how to arrange these spatially. Random, transect, grid or fractal patterns can be used, or the location of recorders can be selected based on target features such as habitat types or nesting locations.
 
->We recommend that recorder locations should be selected based on parameters such as habitat type
+>We recommend that recorder locations should be selected based on parameters such as landscape and habitat type
 
 
 
@@ -384,6 +384,9 @@ The spatial layout of recorders in a study will largely depend on the aims of th
 **Research evidence**
 
 UKAN questionnaire: 58% of respondents would use a selected/optimised spatial distribution of sensors (e.g. by habitat type), with 17% choosing a grid-based arrangement.
+
+Martinez-Arias et al. (2026) found that the placement of recording locations is often more important than the total number of recorders. Random sampling, even with many recorders, produced inconsistent and unreliable results. In contrast, designs that structured recorder placement according to the landscape—by dividing the area into meaningful spatial units and placing recorders systematically within them—consistently gave more precise, stable, and representative soundscape data. These stratified, tessellation-based approaches preserved key spatial patterns while using fewer recording locations. Ecoacoustic studies should prioritize spatially informed placement over random placement to ensure reliable ecological insights.  
+https://doi.org/10.21203/rs.3.rs-7207339/v2
 
 Wood & Peery (2022) discuss two different sampling frameworks for acoustic studies. Recorders may be deployed preferentially in areas known to be important to a species, such as nest sites, implying an ‘area of occupancy’ concept of a species range, Alternatively, recording locations may be randomly determined without relation to any knowledge of species use, e.g. in a survey grid, within a wider ‘extent of occurrence’. Preferential sampling requires substantial pre-survey information, but leads to intuitive parameter interpretation and greater precision due to its finer spatial scale; while greater survey coverage is attainable with random sampling.
 https://doi.org/10.1111/ibi.13092
