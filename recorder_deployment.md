@@ -1,4 +1,4 @@
-# An evidence-based guide for ecoacoustic recorder deployment
+# Recorder setup and deployment
 
 ## Introduction
 
