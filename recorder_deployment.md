@@ -111,15 +111,19 @@ There are a number of different file types that can be used for audio files in e
 
 WAV (Waveform Audio File Format) is a ubiquitous file type that can be produced by most recorders, and processed by most software. Although file sizes can be larger than other file types, the files are uncompressed and lossless, preserving all the data from the original recording.
 
-FLAC (Free Lossless Audio Codec) files are a lossless compressed format. The file sizes often being approximately half of an equivalent WAV file. Some researchers therefore use this format to archive recordings, saving space (and cost), while not reducing the information held within the audio recording.
+FLAC (Free Lossless Audio Codec) files are a lossless compressed format, with file sizes often approximately half of an equivalent WAV file. Some researchers use this format to archive recordings, saving space and cost while retaining all information in the audio recording. Unlike WAV, FLAC does not support GUANO metadata embedding, which may be a consideration for workflows that use this standard.
+
 AIFF (Audio Interchange File Format) is another lossless file format that is similar to WAV. It is also widely supported and is a good choice for preserving the quality of the original audio.
 
 MP3 (MPEG Audio Layer 3) is a compressed file format that is widely used for storing audio data. It is a lossy format, which means that it removes some of the audio data in order to reduce the size of the file. While MP3 files are generally smaller in size compared to WAV and AIFF files, they may not be as suitable for preserving the quality of the original audio.
 
+MP3 (MPEG Audio Layer 3) is a lossy compressed format that removes audio data to reduce file size. Crucially, MP3 compression is designed around human auditory perception, discarding signals that the human ear and brain are unlikely to perceive — for example, quiet sounds that occur close in time or frequency to louder ones. While MP3 files are smaller in size compared to WAV, masking of ecologically significant sounds may potentially occur, and they are not as suitable for preserving the quality of the original audio.
+
 Zero-crossing audio files are simple representations of when the recorded audio signal crosses the zero line. They can be used to reconstruct a sound wave, and hence provide data on frequency, but not on amplitude. Zero-crossing audio files are typically created by applying a threshold to the original audio signal, such that only those samples that exceed the threshold are retained. The file sizes are very small compared to other types.
 
-The choice of file type depends partly on the recorder used. For example, Audiomoths record only in WAV format, while Wildlife Acoustics can save files as WAV, a proprietary W4V compressed format, and as ZC zero-crossing files. The Frontier Lab’s BAR-LT supports WAV and FLAC files.
+W4V is a proprietary compressed format developed by Wildlife Acoustics and released under an open-source licence (GNU GPLv3). It can be effectively lossless with some recordings. W4V is more computationally efficient than FLAC, drawing less power and therefore extending deployment time, and it supports GUANO metadata embedding.
 
+The choice of file type depends partly on the recorder used. For example, Audiomoths record only in WAV format, while Wildlife Acoustics can save files as WAV, a proprietary W4V compressed format, and as ZC zero-crossing files. The Frontier Lab’s BAR-LT supports WAV and FLAC files.
 
 
 **Research evidence**
