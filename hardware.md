@@ -40,7 +40,7 @@ Perks et al. (2025) compared bat monitoring data from commercial and open-source
 https://doi.org/10.1002/2688-8319.70103
 
 Mennill (2024) compared several small ARUs — including AudioMoth in IPX7 case, Song Meter Mini, Song Meter Micro, and SwiftOne — in recorder-based point count applications. Performance was broadly similar across devices for audible-range bird detection, with more notable differences above approximately 12 kHz. Housing and mounting configurations influenced frequency response and directionality.
-https://doi.org/10.1080/09524622.2023.2283216
+https://doi.org/10.1080/09524622.2024.2315054
 
 Zhang et al. (2024) showed that all six acoustic indices tested were affected by the recording device used, and that a signal-to-noise ratio threshold exists above which device noise effects become negligible. They recommended that recorders used for acoustic index work should have an omnidirectional microphone with a flat amplitude frequency response.
 https://doi.org/10.1016/j.ecolind.2024.111759
