@@ -52,7 +52,7 @@ Teixeira et al. (2024) reviewed passive acoustic monitoring practice for ecologi
 https://doi.org/10.1111/csp2.13132
 
 Lapp et al. (2023) conducted a quantitative evaluation of the AudioMoth, reporting a generally flat frequency response with a slight increase above 3 kHz and explicitly quantifying battery life across sample rates and temperatures. At higher sample rates (≥96 kHz), SD cards filled before batteries depleted — an important operational consideration for high-frequency work. At freezing temperatures, alkaline battery runtime fell substantially while lithium cells remained comparatively consistent.
-https://doi.org/10.3390/s23010005
+https://doi.org/10.3390/s23115254
 
 Osborne et al. (2023) tested the effect of protective coverings on AudioMoth recordings. Protective coverings altered spectral characteristics and acoustic metric values in ways that would be ecologically meaningful, underscoring the need to standardise enclosure type across deployments and to treat enclosure changes as hardware changes requiring overlap tests.
 https://doi.org/10.3390/s23167287
@@ -127,7 +127,7 @@ Teixeira et al. (2024) provided recommendations for conservation practitioners u
 https://doi.org/10.1111/csp2.13132
 
 Lapp et al. (2023) quantified the dependence of AudioMoth battery life on sample rate, SD card characteristics, and temperature. Their results showed that higher SD speed classes draw more power and reduce runtime, and that at high sample rates storage fills before batteries deplete — operational variables that must be explicitly considered when planning deployment durations and servicing intervals.
-https://doi.org/10.3390/s23010005
+https://doi.org/10.3390/s23115254
 
 Turgeon et al. (2017) recommended routine sensitivity testing and explicit replacement criteria for microphones in ARU-based monitoring programmes, and demonstrated that sensitivity declines occur after a single field season of use. Their results support time-based or deployment-count-based maintenance triggers rather than ad hoc replacement.
 https://doi.org/10.5751/ACE-00958-120109
