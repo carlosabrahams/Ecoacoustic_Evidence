@@ -22,15 +22,18 @@ This GitHub project aims to fill that gap by serving as a living, community-driv
 
 ## Repository contents
 
-This repository is organized into three main sections:
+This repository is organized into four main sections:
 
-1. 🎙️ [**Recorder Deployment**](./recorder_deployment.md)  
+1. 🎤 [**Hardware Selection and Maintenance**](./hardware.md)
+   Evidence-based recommendations for selecting, checking, and maintaining automated acoustic recorders to ensure reliable and consistent performance across survey deployments.
+   
+2. 🎙️ [**Recorder Deployment**](./recorder_deployment.md)  
    Evidence-based recommendations for programming and field deployment of automated acoustic recorders. Includes guidance on audio settings, recording schedules, and spatial sampling design.
 
-2. 🗂️ [**Metadata**](./metadata.md)  
+3. 🗂️ [**Metadata**](./metadata.md)  
    Recommendations for recording essential contextual information alongside ecoacoustic data, following FAIR (Findable, Accessible, Interoperable, and Reusable) data principles.
 
-3. 📊 [**Data Analysis**](./data_analysis.md)  
+4. 📊 [**Data Analysis**](./data_analysis.md)  
    Overview of approaches for processing and analyzing ecoacoustic recordings, including acoustic indices, species detection, and statistical considerations.
 
 ---
@@ -47,11 +50,12 @@ A key component of this work was a questionnaire distributed at the UK Acoustics
 
 If you are planning an ecoacoustic monitoring project:
 
-1. **Define your objectives** – species detection, soundscape monitoring, or long-term ecological assessment.  
-2. **Consult the [Recorder Deployment](./recorder_deployment.md)** guide for device selection, audio settings, and deployment strategies.  
-3. **Record contextual data** using the **[Metadata](./metadata.md)** guidelines.  
-4. **Process and analyze** your data following the **[Data Analysis](./data_analysis.md)** recommendations.  
-5. **Document and share** your methods and findings to support reproducibility.
+1. **Define your objectives** – species detection, soundscape monitoring, or long-term ecological assessment.
+2. **Prepare your equipment** using the [Hardware](./hardware) guidance on recorder selection, checking, and calibration.
+3. **Consult the [Recorder Deployment](./recorder_deployment.md)** guide for audio settings, and deployment strategies.  
+4. **Record contextual data** using the **[Metadata](./metadata.md)** guidelines.  
+5. **Process and analyze** your data following the **[Data Analysis](./data_analysis.md)** recommendations.  
+6. **Document and share** your methods and findings to support reproducibility.
 
 ---
 
