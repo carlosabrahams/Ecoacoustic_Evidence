@@ -209,6 +209,9 @@ In combination with file lengths of one minute, as recommended above, 12 recordi
 
 UKAN questionnaire: 27% of respondents selected 6 files per hour, with 17% selecting 12 files per hour.
 
+Singer et al. (2026) assessed vocal activity patterns of 53 European forest bird species using 25,000 hours of PAM across 256 sites in Germany, with a time-sampled schedule (30 seconds every 10 minutes, equating to 5% temporal coverage across the full 24-hour cycle) against known activity patterns. The approach captured species-specific diel and seasonal patterns effectively across nocturnal, crepuscular and diurnal species, validating the use of short, regularly distributed samples as an alternative to continuous recording.
+https://doi.org/10.1007/s10336-025-02307-y
+
 Shaw et al. (2022) investigated the effort required to estimate bird species richness and composition in European forests. They compared sampling intensity for 1 min files, in intervals from 1-in-3 (n = 20 per hour) to 1-in-60 min (n = 1 per hour). The highest species richness was with recordings at the highest intensity of one every 3 mins. 
 https://doi.org/10.1002/ece3.9491
 
@@ -245,7 +248,10 @@ Recording sound through the 24 hour diel cycle can be important in ecoacoustic s
 
 **Research evidence**
 
-UKAN questionnaire: 67% of respondents selected the full 24 hr daily cycle
+UKAN questionnaire: 67% of respondents selected the full 24 hr daily cycle.
+
+Singer et al. (2026) quantified diel vocal activity patterns for 53 European forest bird species using 25,000 hours of PAM recording, revealing high inter-specific variability across nocturnal, crepuscular and diurnal activity types. The hour before sunrise emerged as particularly critical for acoustic detection, with turnover in the set of highly detectable species peaking sharply at that point. For later in the breeding season, detectability across species remained broadly stable through the morning, suggesting that PAM schedules can usefully extend beyond the early post-sunrise window. In addition, dusk was found to be an important detection period for a number of species, with some showing measurably higher vocal activity around sunset than at dawn. The authors recommend that acoustic recording schedules include coverage of both the pre-sunrise and dusk periods to capture the full range of species-specific vocal activity patterns.
+https://doi.org/10.1007/s10336-025-02307-y
 
 Shaw et al. (2022) investigated the effort to estimate bird species richness and composition in European forests. They compared recording in a dawn period (1 hr before sunrise), a morning period (1 hr beginning 3 hr after sunrise), and a combined period including both day phases. Species richness was significantly higher when including both day phases compared to dawn alone, and was slightly higher in the morning compared to dawn (yielding 80% of recorded species). However, certain nocturnal/ crepuscular species could only be observed in the dawn period. 
 https://doi.org/10.1002/ece3.9491
