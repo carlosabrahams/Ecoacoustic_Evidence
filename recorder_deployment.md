@@ -428,6 +428,9 @@ For coverage of a site, the aim is normally to sample across the range of the ha
 
 UKAN questionnaire: 30% of respondents selected a 500m separation distance between recorders (equal to 4 recorders/km2), with 23% choosing a 250m distance (equal to 16 recorders/km2).
 
+Schuster et al. (2026) used distance-based playback broadcasts of six focal species (Dickcissel, Grasshopper Sparrow, Northern Bobwhite, Ring-necked Pheasant, Wild Turkey, Mourning Dove) at seven distances (25–300 m) around ARUs in Nebraska grassland. Detection space was strongly species-specific: at medium playback amplitude, optimal distances for 50% detection probability ranged from under 25 m (Grasshopper Sparrow, Mourning Dove) to around 92 m (Northern Bobwhite), with the other species falling between (Wild Turkey 49 m, Ring-necked Pheasant 66 m, Dickcissel 79 m). The authors recommend 100 m spacing between ARUs (or from habitat edges) as a general benchmark for grassland studies, while noting that quieter species may need closer spacing to achieve reliable detection.
+https://doi.org/10.1002/ece3.74181
+
 Winiarska et al. (2024) estimated detection distances of 31 bird species in woodland habitat. Detection distance inceased with higher humidity, and large-bodied, louder, and lower-frequency (0.1-2.5 kHz) birds were detected at greater distances than smaller, high-pitched (1.5-8.5 kHz) species, which were generally detectable to a maximum of around 150m. Two species - Common Cuckoo and Stock Dove - were detected at 500m, the longest distance included in the study.  Long-tailed Tit and Pied Flycatcher had the shortest detection distances, with an effective range of ~100m.  The authors recommend using a recorder spacing of 3-5 times the detection distance of birds of interest - so potentially having spacings of 300m to 2km, depending on species.  
 https://doi.org/10.1038/s41598-024-51297-z
 
