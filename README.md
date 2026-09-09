@@ -53,7 +53,7 @@ A key component of this work was a questionnaire distributed at the UK Acoustics
 
 If you are planning an ecoacoustic monitoring project:
 
-1. **Is ecoacoustics the best approach**: define your objectives and **[methods]((./why_ecoacoustics.md)** – species detection, soundscape monitoring, or long-term ecological assessment.
+1. **Is ecoacoustics the best approach**: define your objectives and **[methods](./why_ecoacoustics.md)** – species detection, soundscape monitoring, or long-term ecological assessment.
 2. **Prepare your equipment** using the [Hardware](./hardware) guidance on recorder selection, checking, and calibration.
 3. **Consult the [Recorder Deployment](./recorder_deployment.md)** guide for audio settings, and deployment strategies.  
 4. **Record contextual data** using the **[Metadata](./metadata.md)** guidelines.  
