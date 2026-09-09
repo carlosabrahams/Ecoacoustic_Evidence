@@ -25,7 +25,7 @@ This GitHub project aims to fill that gap by serving as a living, community-driv
 This repository is organized into five main sections:
 
 1. ❓ [**Why Ecoacoustics**](./why_ecoacoustics.md)
-   Receommendations for where and when ecoacoustic methods are warranted, and most effective in comparison to other possible survey approaches and methods.
+   Recommendations for where and when ecoacoustic methods are warranted, and most effective in comparison to other possible survey approaches and methods.
    
 2. 🎤 [**Hardware Selection and Maintenance**](./hardware.md)
    Evidence-based recommendations for selecting, checking, and maintaining automated acoustic recorders to ensure reliable and consistent performance across survey deployments.
