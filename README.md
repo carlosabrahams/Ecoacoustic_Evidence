@@ -22,18 +22,21 @@ This GitHub project aims to fill that gap by serving as a living, community-driv
 
 ## Repository contents
 
-This repository is organized into four main sections:
+This repository is organized into five main sections:
 
-1. 🎤 [**Hardware Selection and Maintenance**](./hardware.md)
+1. ❓ [**Why Ecoacoustics**](./why_ecoacoustics.md)
+   Receommendations for where and when ecoacoustic methods are warranted, and most effective in comparison to other possible survey approaches and methods.
+   
+2. 🎤 [**Hardware Selection and Maintenance**](./hardware.md)
    Evidence-based recommendations for selecting, checking, and maintaining automated acoustic recorders to ensure reliable and consistent performance across survey deployments.
    
-2. 🎙️ [**Recorder Deployment**](./recorder_deployment.md)  
+3. 🎙️ [**Recorder Deployment**](./recorder_deployment.md)  
    Evidence-based recommendations for programming and field deployment of automated acoustic recorders. Includes guidance on audio settings, recording schedules, and spatial sampling design.
 
-3. 🗂️ [**Metadata**](./metadata.md)  
+4. 🗂️ [**Metadata**](./metadata.md)  
    Recommendations for recording essential contextual information alongside ecoacoustic data, following FAIR (Findable, Accessible, Interoperable, and Reusable) data principles.
 
-4. 📊 [**Data Analysis**](./data_analysis.md)  
+5. 📊 [**Data Analysis**](./data_analysis.md)  
    Overview of approaches for processing and analyzing ecoacoustic recordings, including acoustic indices, species detection, and statistical considerations.
 
 ---
@@ -50,7 +53,7 @@ A key component of this work was a questionnaire distributed at the UK Acoustics
 
 If you are planning an ecoacoustic monitoring project:
 
-1. **Define your objectives** – species detection, soundscape monitoring, or long-term ecological assessment.
+1. **Is ecoacoustics the best approach**: define your objectives and **[methods]((./why_ecoacoustics.md)** – species detection, soundscape monitoring, or long-term ecological assessment.
 2. **Prepare your equipment** using the [Hardware](./hardware) guidance on recorder selection, checking, and calibration.
 3. **Consult the [Recorder Deployment](./recorder_deployment.md)** guide for audio settings, and deployment strategies.  
 4. **Record contextual data** using the **[Metadata](./metadata.md)** guidelines.  
