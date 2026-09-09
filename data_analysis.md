@@ -4,7 +4,7 @@
 
 The minimum standard for a bird acoustic survey will commonly be a verified species list for the study site, with associated levels of vocal activity. This may be broken down into data for different recorder locations, and across sampling dates.
 
-There are two simple approaches that can be taken to analyse and present the data from surveys – either: (i) report the number of detections identified for each species, or (ii) identify the presence/absence of each species in one minute audio samples and calculate the proportion of samples in which each species is recorded. Both of these outputs can be used to provide a summary of species observations per day or deployment period at each recorder location.
+There are two simple approaches that can be taken to analyse and present the data from surveys – either: (i) report the number of detections identified for each species, or (ii) identify the presence/absence of each species in a time unit (e.g. one minute audio samples) and calculate the proportion of units in which each species is recorded. Both of these outputs can be used to provide a summary of species observations per day or deployment period at each recorder location.
 
 If using any automated recogniser or clustering process to identify species vocalizations, then a degree of manual verification is required, so that error rates can be checked and the quality of the recogniser can be properly assessed. This quality assurance process need not review all detections, but can use a suitable sub-sample of the complete dataset, or may focus on rare/unusual species in the context of the site or habitat being surveyed. This verification process, and its results, should be fully set out in the survey report.
 
@@ -21,6 +21,9 @@ Data collected through acoustic monitoring techniques should be checked by exper
 Following survey completion, audio recordings, particular those of rare and priority species, should be stored to allow review at a later date. They should also be archived with county recorders/research organisations, or with online, open-source bird call repositories such as Xeno-Canto – unless the client or funder explicitly requires that this is not done.
 
 ## Research evidence
+
+Scanferla et al. (2026) used detection rate (DR) – the proportion of audio files with at least one true detection – as an abundance proxy to build an approximated Shannon index from PAM data. A parallel Shannon index built using vocal activity rate as the abundance proxy performed worse. DR is therefore the more reliable of the two abundance proxies for calculating diversity indices from PAM data, though it may depend on species-specific confidence thresholds, which are time-consuming to derive and not available for every species.
+https://doi.org/10.1002/rse2.70098
 
 Hanf-Dressler et al. (2026) conducted a review of software used for terrestrial and aquatic bio- and ecoacoustics, identifying over 220 available tools. They showed that while analysis tools are abundant, most software addresses only part of the workflow, with data management and end-to-end integration being underrepresented. Only a small subset of tools cover all key workflow components (data management, pre-processing, visualisation, and analysis), leading to fragmented and often bespoke analytical pipelines. Although most tools are open-source, commercial GUI-based software remains widely used in published studies, likely due to usability and support. The authors recommend prioritising integration, documentation, verification, and interoperability of existing tools rather than further proliferation of new software.
   https://doi.org/10.12688/f1000research.173495.1
